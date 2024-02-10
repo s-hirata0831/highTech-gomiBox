@@ -1,9 +1,13 @@
 <div align="center">
-    ここに画像を貼り付け
+    <img src="https://github.com/s-hirata0831/highTech-gomiBox/blob/main/doc_picture/new.png?raw=true">
 </div>
-# highTech-gomiBox
 
-![Licence](https://img.shields.io/badge/license-MIT-blue.svg?maxAge=43200)
+<h2 align="center">
+    highTech-gomiBox
+</h2>
+
+<div align="center">
+<img src="https://img.shields.io/badge/license-MIT-blue.svg?maxAge=43200">
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
@@ -13,6 +17,7 @@
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat">
 <img src="https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&style=plastic">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+</div>
 
 ## OverView
 
@@ -22,8 +27,11 @@ highTech-gomiBox(選択通過型廃棄飲料容器収集箱)は缶とペット�
 
 ## Usage
 
-構成は以下のようになっています。  
-(画像を追加)
+構成は以下のようになっています。
+
+<img src="https://github.com/s-hirata0831/highTech-gomiBox/blob/main/doc_picture/IMG_9990.jpeg?raw=true">
+<img src="https://github.com/s-hirata0831/highTech-gomiBox/blob/main/doc_picture/IMG_9991.jpeg?raw=true">
+
 Raspberry Pi に下記に示すモジュールをインポートします。
 
 - Flask
@@ -55,5 +63,5 @@ sudo pigpiod
 - Senzaki Rintaroh
 - Hirata Soma  
   [GitHub](https://github.com/s-hirata0831)
-- Fujii Koki
+- Fujii Koki  
   [GitHub](https://github.com/kouki-f)
